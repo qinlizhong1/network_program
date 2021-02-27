@@ -1,5 +1,6 @@
 //
 // Created by 覃立中 on 2021/2/27.
+//g++ -g -o bind_server bind_server.cpp
 //
 
 /**
